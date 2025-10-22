@@ -11,6 +11,10 @@ It features **two separate stack implementations**: arrayStack, which uses std::
 
 Each implementation runs the same logic and outputs whether the expression is balanced or not.
 
+## How to Run
+- Compile: g++ -std=c++17 -Wall -O2 -o checker Checker.cpp
+- Run: ./checker
+
 ## Features
 
 - **Two Stack Implementations**

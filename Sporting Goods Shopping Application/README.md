@@ -13,6 +13,8 @@ The program allows users to:
 - Automatically calculate the total price — including discounts and bundle offers.  
 - Exit or continue shopping interactively from the command line.
 
+## How to Run
+- Run: python main-1.py
 ## Features
 
 - **Abstract Base Class (`StoreSection`)**

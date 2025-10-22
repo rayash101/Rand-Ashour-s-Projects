@@ -1,6 +1,9 @@
 ## File System Analyzer (C)
 - A C-based utility that recursively traverses directories and reports metadata for each file, including size and word counts for text files. Demonstrates proficiency in POSIX system calls, process control, file I/O, and text parsing.
 
+## How to Run
+- Compile: gcc Analyzer.c -o analyzer
+- Run: ./analyzer
 ## Key Features:
 - Recursive directory traversal using opendir() and readdir().
 - File metadata extraction via stat().
