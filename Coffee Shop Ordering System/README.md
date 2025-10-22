@@ -12,12 +12,12 @@ This system simulates a simple coffee shop application where users can:
 
 Each coffee type is implemented as a subclass of a base `Coffee` class, and customers and orders are managed through separate dedicated classes for modularity and scalability.
 
-## ⚙️ Features
+## Features
 
 - **Homepage & Main Menu:** Provides an interactive console interface for user navigation.
 - **Coffee Inheritance Hierarchy:**  
-  - `Coffee` (abstract base class)  
-  - `Espresso`, `Cappuccino`, `FilteredCoffee` (specialized subclasses)
+  - `Coffee` (abstract base class). 
+  - `Espresso`, `Cappuccino`, `FilteredCoffee` (specialized subclasses).
 - **Customer Class:** Handles customer names and order associations.
 - **Order Class:** Stores details such as drink type, quantity, and total cost.
 - **OrdersFile Class:** Reads and writes order details to a text file for persistent storage.
