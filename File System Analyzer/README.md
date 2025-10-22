@@ -2,6 +2,7 @@
 - A C-based utility that recursively traverses directories and reports metadata for each file, including size and word counts for text files. Demonstrates proficiency in POSIX system calls, process control, file I/O, and text parsing.
 
 ## How to Run
+- Move to project folder: cd "File System Analyzer"
 - Compile: gcc Analyzer.c -o analyzer
 - Run: ./analyzer
 ## Key Features:

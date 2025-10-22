@@ -14,7 +14,8 @@ The program allows users to:
 - Exit or continue shopping interactively from the command line.
 
 ## How to Run
-- Run: python main-1.py
+- Move to project folder: cd "Sporting Goods Shopping Application"
+- Run: python Application.py
 ## Features
 
 - **Abstract Base Class (`StoreSection`)**

@@ -13,6 +13,7 @@ This system simulates a simple coffee shop application where users can:
 Each coffee type is implemented as a subclass of a base `Coffee` class, and customers and orders are managed through separate dedicated classes for modularity and scalability.
 
 ## How to Run
+- Move to project folder: cd "Coffee Shop Ordering System"
 - Compile: javac *.java
 - Run main class (Homepage): java Homepage
 
