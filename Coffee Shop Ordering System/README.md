@@ -15,6 +15,7 @@ Each coffee type is implemented as a subclass of a base `Coffee` class, and cust
 ## How to Run
 - Compile: javac *.java
 -Run main class (Homepage): java Homepage
+
 ## Features
 
 - **Homepage & Main Menu:** Provides an interactive console interface for user navigation.
