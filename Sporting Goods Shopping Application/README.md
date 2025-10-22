@@ -1,4 +1,4 @@
-# Sports Store Purchase System (Python)
+# Sporting Goods Shopping Application (Python)
 
 A **Python-based console application** that simulates a sports store purchase system.  
 Users can explore and buy equipment for **Soccer, Camping, Volleyball,** or **Table Tennis**, with each category offering unique customization options and pricing logic.  
