@@ -14,7 +14,7 @@ Each coffee type is implemented as a subclass of a base `Coffee` class, and cust
 
 ## How to Run
 - Compile: javac *.java
--Run main class (Homepage): java Homepage
+- Run main class (Homepage): java Homepage
 
 ## Features
 
