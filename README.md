@@ -20,7 +20,7 @@ Showcases advanced OOP principles like abstraction, inheritance, encapsulation, 
 Skills: OOP, Abstraction, Inheritance, Input validation  
 > `Language: Python | Paradigm: Object-Oriented Programming`
 
-### [Balanced Parentheses Checker (C++)](https://github.com/rayash101/Rand-Ashour-s-Projects/blob/main/Checker.cpp)
+### [Balanced Parentheses Checker (C++)]([https://github.com/rayash101/Rand-Ashour-s-Projects/blob/main/Checker.cpp](https://github.com/rayash101/Rand-Ashour-s-Projects/tree/main/Parantheses%20Balance%20Checker))
 A C++ console tool that checks for balanced parentheses/brackets using two stack implementations: arrayStack (vector-based) and linkStack (linked-list-based)  
 Demonstrates algorithm design, data structures, and custom class implementation.  
 Skills: Data structures, Stacks, Control flow, Error handling  
