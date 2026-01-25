@@ -13,10 +13,8 @@ This system simulates a simple coffee shop application where users can:
 Each coffee type is implemented as a subclass of a base `Coffee` class, and customers and orders are managed through separate dedicated classes for modularity and scalability.
 
 ## How to Run
-- Move to project folder: cd "Coffee Shop Ordering System"
-- Compile: javac *.java
-- Run main class (Homepage): java Homepage
-
+- This project was developed and tested using **GitHub Codespaces**, which provides a cloud-based development environment. Codespaces allowed the Java code to be compiled and executed directly in the browser without requiring a local Java installation.
+- 
 ## Features
 
 - **Homepage & Main Menu:** Provides an interactive console interface for user navigation.
